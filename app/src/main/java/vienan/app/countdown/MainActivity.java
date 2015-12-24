@@ -1,4 +1,4 @@
-package vienan.app.countdown;
+﻿package vienan.app.countdown;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
     private void setUpView() {
         tvCountDown= (TextView) findViewById(R.id.tv_countdown);
         subscriptionCountDown=  Observable
-                .interval(0,1, TimeUnit.SECONDS, Schedulers.computation())//
+                .interval(0,1, TimeUnit.SECONDS, Schedulers.computation())
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribe(new Observer<Long>() {
                     @Override
