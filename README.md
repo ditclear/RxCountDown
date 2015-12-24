@@ -2,7 +2,7 @@
 A CountDown using RxAndroid and Jodatime
 
 ----------
-[Apk Here](build\outputs\apk\countdown.apk)
+[Apk Here](https://github.com/vienan/CountDown/blob/master/countdown.apk)
 
 ###screenshot
 
