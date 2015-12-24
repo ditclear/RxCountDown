@@ -2,11 +2,11 @@
 A CountDown using RxAndroid and Jodatime
 
 ----------
-[Apk Here](..\build\outputs\apk\countdown.apk)
+[Apk Here](build\outputs\apk\countdown.apk)
 
 ###screenshot
 
-![screenshot](..\screenshot\screenshot.jpg)
+![screenshot](https://github.com/vienan/CountDown/raw/master/screenshot/screenshot.jpg)
 
 ##Main Code
 ```java
