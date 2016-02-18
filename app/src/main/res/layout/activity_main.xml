@@ -14,5 +14,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
+        android:text="2016-2-18 12:00"
         android:textSize="20sp"/>
 </RelativeLayout>
